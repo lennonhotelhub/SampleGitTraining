@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "WorkerServiceM2M": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
