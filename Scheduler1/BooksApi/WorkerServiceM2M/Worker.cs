@@ -10,6 +10,8 @@ using Newtonsoft.Json;
 using WorkerServiceM2M.DataLayer;
 using WorkerServiceM2M.Models;
 using Microsoft.Extensions.Options;
+//using BookStoreLibrary;
+//using BookStoreLibrary.Entities;
 
 namespace WorkerServiceM2M
 {
@@ -18,6 +20,7 @@ namespace WorkerServiceM2M
         private readonly ILogger<Worker> _logger;
         private HttpClient _client;
         private BooksApi.Services.BookService _bookService;
+        //private IBookService _bookService;// class library
 
         public Worker(ILogger<Worker> logger)
         {
@@ -35,6 +38,17 @@ namespace WorkerServiceM2M
                 DatabaseName = "Bookstore2Db"
             };
             _bookService = new BooksApi.Services.BookService(settings);
+            #region using class library
+            //IBookstoreDatabaseSettings settings = new BookstoreDatabaseSettings
+            //{
+            //    ConnectionString = "mongodb://localhost:27017",
+            //    BooksCollectionName = "Books",
+            //    DatabaseName = "Bookstore2Db"
+            //};
+            //_bookService = new BookService(settings);
+            //List<Book> books = _bookService.Get();
+            #endregion
+
             _client = new HttpClient();
             return base.StartAsync(cancellationToken);
         }

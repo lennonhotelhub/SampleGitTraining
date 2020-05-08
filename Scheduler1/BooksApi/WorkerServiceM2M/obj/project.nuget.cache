@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "igO3VgUw08eyAUubyoe8e5/C74v2nYEt/LV54IqyBQslwSrJqs+ZpGJTv0PL2Ol9pEMiZ7NhvbNDpKS2V0WaOw==",
+  "dgSpecHash": "n8zf8p4TJ7LDwArV0/Urd+a61W7DLcTn0AU6LjXQbOYfZkC/was9A6TtFKzCesuVwqxWPFL0b5hYbm8NL77yDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\SampleSnippets\\Scheduler1\\BooksApi\\WorkerServiceM2M\\WorkerServiceM2M.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\GitTraining\\Scheduler1\\BooksApi\\WorkerServiceM2M\\WorkerServiceM2M.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
@@ -55,9 +55,9 @@
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.visualstudio.web.codegenerators.mvc\\3.1.1\\microsoft.visualstudio.web.codegenerators.mvc.3.1.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\mongodb.bson\\2.10.3\\mongodb.bson.2.10.3.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\mongodb.driver\\2.10.3\\mongodb.driver.2.10.3.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\mongodb.driver.core\\2.10.3\\mongodb.driver.core.2.10.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mongodb.bson\\2.10.4\\mongodb.bson.2.10.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mongodb.driver\\2.10.4\\mongodb.driver.2.10.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mongodb.driver.core\\2.10.4\\mongodb.driver.core.2.10.4.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\mongodb.libmongocrypt\\1.0.0\\mongodb.libmongocrypt.1.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",

@@ -814,7 +814,7 @@
           }
         }
       },
-      "MongoDB.Bson/2.10.3": {
+      "MongoDB.Bson/2.10.4": {
         "type": "package",
         "dependencies": {
           "NETStandard.Library": "1.6.1",
@@ -831,11 +831,11 @@
           "lib/netstandard1.5/MongoDB.Bson.dll": {}
         }
       },
-      "MongoDB.Driver/2.10.3": {
+      "MongoDB.Driver/2.10.4": {
         "type": "package",
         "dependencies": {
-          "MongoDB.Bson": "2.10.3",
-          "MongoDB.Driver.Core": "2.10.3",
+          "MongoDB.Bson": "2.10.4",
+          "MongoDB.Driver.Core": "2.10.4",
           "MongoDB.Libmongocrypt": "1.0.0",
           "NETStandard.Library": "1.6.1",
           "System.ComponentModel.TypeConverter": "4.1.0",
@@ -848,11 +848,11 @@
           "lib/netstandard1.5/MongoDB.Driver.dll": {}
         }
       },
-      "MongoDB.Driver.Core/2.10.3": {
+      "MongoDB.Driver.Core/2.10.4": {
         "type": "package",
         "dependencies": {
           "DnsClient": "1.3.1",
-          "MongoDB.Bson": "2.10.3",
+          "MongoDB.Bson": "2.10.4",
           "MongoDB.Libmongocrypt": "1.0.0",
           "NETStandard.Library": "1.6.1",
           "SharpCompress": "0.23.0",
@@ -2747,7 +2747,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "3.1.3",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.1",
-          "MongoDB.Driver": "2.10.3"
+          "MongoDB.Driver": "2.10.4"
         },
         "compile": {
           "bin/placeholder/BooksApi.dll": {}
@@ -4059,10 +4059,10 @@
         "version.txt"
       ]
     },
-    "MongoDB.Bson/2.10.3": {
-      "sha512": "UT6w7vsiXlCH7mABxj/NuaGR0KWfXIW5zP5RHW16JrviiygSoEb6fEUhs1QgrjdcNHP+gns1/T9Sfqi4KUPPew==",
+    "MongoDB.Bson/2.10.4": {
+      "sha512": "hLk3nlr2YMe8O5LBi6us9JQTEBT/Kabb92eAxgDIXlENS17FOFOmxbGnB5rvKEK1qOaoYWFfyEnLqTt/6hTlpw==",
       "type": "package",
-      "path": "mongodb.bson/2.10.3",
+      "path": "mongodb.bson/2.10.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4071,14 +4071,14 @@
         "lib/net452/MongoDB.Bson.xml",
         "lib/netstandard1.5/MongoDB.Bson.dll",
         "lib/netstandard1.5/MongoDB.Bson.xml",
-        "mongodb.bson.2.10.3.nupkg.sha512",
+        "mongodb.bson.2.10.4.nupkg.sha512",
         "mongodb.bson.nuspec"
       ]
     },
-    "MongoDB.Driver/2.10.3": {
-      "sha512": "KArEHjZrga9cGM8/OcYpr5vkQq4V8P54L3L/D8oUNAVREwzJ2BExX8LNNV7Y2qt9lWk3kO8JkUcjgoD77DyDog==",
+    "MongoDB.Driver/2.10.4": {
+      "sha512": "RhARXhIRirbmXxNbokYn+TCmZXnVP/0XNQncz8wySmyUNmVGUhNxiHpUniBCu+wIR+LkZ77+tFHzc+38ShSFUg==",
       "type": "package",
-      "path": "mongodb.driver/2.10.3",
+      "path": "mongodb.driver/2.10.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4087,14 +4087,14 @@
         "lib/net452/MongoDB.Driver.xml",
         "lib/netstandard1.5/MongoDB.Driver.dll",
         "lib/netstandard1.5/MongoDB.Driver.xml",
-        "mongodb.driver.2.10.3.nupkg.sha512",
+        "mongodb.driver.2.10.4.nupkg.sha512",
         "mongodb.driver.nuspec"
       ]
     },
-    "MongoDB.Driver.Core/2.10.3": {
-      "sha512": "YnHsNpIVDzjrDDagg1mhu7F7i11zAdSxQlmhbD3+VuU5Yb2fcjVrS2s90QsrshxuAAXg3DreYNx7hWBK4JvKGg==",
+    "MongoDB.Driver.Core/2.10.4": {
+      "sha512": "FF9Matyemmup3wvaicOm/ZKDJITI0mHA1G+9dF+A9lLuU6k3eo6mGvCXgBVPxTXqHHd70AgKwIOFvszIUxqpSA==",
       "type": "package",
-      "path": "mongodb.driver.core/2.10.3",
+      "path": "mongodb.driver.core/2.10.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4103,7 +4103,7 @@
         "lib/net452/MongoDB.Driver.Core.xml",
         "lib/netstandard1.5/MongoDB.Driver.Core.dll",
         "lib/netstandard1.5/MongoDB.Driver.Core.xml",
-        "mongodb.driver.core.2.10.3.nupkg.sha512",
+        "mongodb.driver.core.2.10.4.nupkg.sha512",
         "mongodb.driver.core.nuspec"
       ]
     },
@@ -8700,7 +8700,7 @@
     ".NETCoreApp,Version=v3.1": [
       "BooksApi >= 1.0.0",
       "Microsoft.Extensions.Hosting >= 3.1.3",
-      "MongoDB.Driver >= 2.10.3"
+      "MongoDB.Driver >= 2.10.4"
     ]
   },
   "packageFolders": {
@@ -8709,11 +8709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\SampleSnippets\\Scheduler1\\BooksApi\\WorkerServiceM2M\\WorkerServiceM2M.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\GitTraining\\Scheduler1\\BooksApi\\WorkerServiceM2M\\WorkerServiceM2M.csproj",
       "projectName": "WorkerServiceM2M",
-      "projectPath": "C:\\Users\\USER\\Desktop\\SampleSnippets\\Scheduler1\\BooksApi\\WorkerServiceM2M\\WorkerServiceM2M.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\GitTraining\\Scheduler1\\BooksApi\\WorkerServiceM2M\\WorkerServiceM2M.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\SampleSnippets\\Scheduler1\\BooksApi\\WorkerServiceM2M\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\GitTraining\\Scheduler1\\BooksApi\\WorkerServiceM2M\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8729,8 +8729,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\USER\\Desktop\\SampleSnippets\\Scheduler1\\BooksApi\\BooksApi\\BooksApi.csproj": {
-              "projectPath": "C:\\Users\\USER\\Desktop\\SampleSnippets\\Scheduler1\\BooksApi\\BooksApi\\BooksApi.csproj"
+            "C:\\Users\\USER\\Desktop\\GitTraining\\Scheduler1\\BooksApi\\BooksApi\\BooksApi.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\GitTraining\\Scheduler1\\BooksApi\\BooksApi\\BooksApi.csproj"
             }
           }
         }
@@ -8750,7 +8750,7 @@
           },
           "MongoDB.Driver": {
             "target": "Package",
-            "version": "[2.10.3, )"
+            "version": "[2.10.4, )"
           }
         },
         "imports": [

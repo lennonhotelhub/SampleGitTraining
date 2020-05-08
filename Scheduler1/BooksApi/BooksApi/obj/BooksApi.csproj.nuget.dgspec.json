@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\SampleSnippets\\Scheduler1\\BooksApi\\BooksApi\\BooksApi.csproj": {}
+    "C:\\Users\\USER\\Desktop\\GitTraining\\Scheduler1\\BooksApi\\BooksApi\\BooksApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\SampleSnippets\\Scheduler1\\BooksApi\\BooksApi\\BooksApi.csproj": {
+    "C:\\Users\\USER\\Desktop\\GitTraining\\Scheduler1\\BooksApi\\BooksApi\\BooksApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\SampleSnippets\\Scheduler1\\BooksApi\\BooksApi\\BooksApi.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\GitTraining\\Scheduler1\\BooksApi\\BooksApi\\BooksApi.csproj",
         "projectName": "BooksApi",
-        "projectPath": "C:\\Users\\USER\\Desktop\\SampleSnippets\\Scheduler1\\BooksApi\\BooksApi\\BooksApi.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\GitTraining\\Scheduler1\\BooksApi\\BooksApi\\BooksApi.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\SampleSnippets\\Scheduler1\\BooksApi\\BooksApi\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\GitTraining\\Scheduler1\\BooksApi\\BooksApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,7 +48,7 @@
             },
             "MongoDB.Driver": {
               "target": "Package",
-              "version": "[2.10.3, )"
+              "version": "[2.10.4, )"
             }
           },
           "imports": [

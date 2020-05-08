@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\SampleSnippets\BookStoreLibrary\BookStoreLibrary\bin\Debug\netcoreapp3.1\BookStoreLibrary.deps.json
+C:\Users\USER\Desktop\SampleSnippets\BookStoreLibrary\BookStoreLibrary\bin\Debug\netcoreapp3.1\BookStoreLibrary.dll
+C:\Users\USER\Desktop\SampleSnippets\BookStoreLibrary\BookStoreLibrary\obj\Debug\netcoreapp3.1\BookStoreLibrary.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\SampleSnippets\BookStoreLibrary\BookStoreLibrary\obj\Debug\netcoreapp3.1\BookStoreLibrary.AssemblyInfo.cs
+C:\Users\USER\Desktop\SampleSnippets\BookStoreLibrary\BookStoreLibrary\obj\Debug\netcoreapp3.1\BookStoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SampleSnippets\BookStoreLibrary\BookStoreLibrary\bin\Debug\netcoreapp3.1\BookStoreLibrary.pdb
+C:\Users\USER\Desktop\SampleSnippets\BookStoreLibrary\BookStoreLibrary\obj\Debug\netcoreapp3.1\BookStoreLibrary.dll
+C:\Users\USER\Desktop\SampleSnippets\BookStoreLibrary\BookStoreLibrary\obj\Debug\netcoreapp3.1\BookStoreLibrary.pdb
+C:\Users\USER\Desktop\SampleSnippets\BookStoreLibrary\BookStoreLibrary\obj\Debug\netcoreapp3.1\BookStoreLibrary.csprojAssemblyReference.cache
